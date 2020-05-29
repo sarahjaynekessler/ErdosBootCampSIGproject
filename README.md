@@ -7,4 +7,4 @@ The other notebooks detail the methods we used to try and create a decent over/u
 
 Included here are the final dataframes with all varaibles included and the specialized ones created for ML notebooks. 
 
-Also included is the .pkl file of the trained fastai model. This can be easily loaded to make predictions as is shown in the Fastai_in_production.ipynb
+Also included is the .pkl file of the trained fastai model. This can be easily loaded to make predictions as is demonstrated in Fastai_in_production.ipynb
